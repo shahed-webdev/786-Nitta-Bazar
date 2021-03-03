@@ -259,6 +259,12 @@
     <Content Include="JS\Resize_Img\canvasResize.js" />
     <Content Include="JS\Resize_Img\exif.js" />
     <Content Include="JS\sms_counter.min.js" />
+    <Content Include="libs\AjaxControlToolkit.dll" />
+    <Content Include="libs\HttpSDK.dll" />
+    <Content Include="libs\Microsoft.ReportViewer.Common.dll" />
+    <Content Include="libs\Microsoft.ReportViewer.ProcessingObjectModel.DLL" />
+    <Content Include="libs\Microsoft.ReportViewer.WebForms.DLL" />
+    <Content Include="libs\Newtonsoft.Json.dll" />
     <Content Include="Login.aspx" />
     <Content Include="Manage_Slider_Product.aspx" />
     <Content Include="Profile_Redirect.aspx" />
