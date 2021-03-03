@@ -1,0 +1,16 @@
+﻿
+
+/*---Treeview Style----------*/
+.rootNode,.treeNode a {color:#767676; text-decoration:none}
+.rootNode {border-bottom: 1px solid #142638; border-top: 1px solid #54677a; font-size:16px; padding: 10px 8px 12px 0; width: 100%; }
+.rootNode:hover { background-color:#ddd}
+
+.treeNode { color: #000; outline: medium none; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); width: 100%; padding:15px 4px; border-bottom: 1px solid #d0d0d0; border-top: 1px solid #fcfcfc;}
+.treeNode:hover { background-color:#ddd}
+
+.leafNode{padding:4px 0;}
+.leafNode a{ font-size: 12px; color:#666}
+.leafNode:hover { text-decoration:none;}
+
+.Selected_Node { color:#570B56 !important}
+/*---End Treeview Style----------*/

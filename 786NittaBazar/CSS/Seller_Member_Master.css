@@ -1,0 +1,18 @@
+﻿
+/*---Treeview Style----------*/
+#myNavbar ul { margin:0; padding:0}
+#myNavbar ul li { border-bottom: 1px solid #d0d0d0; border-top: 1px solid #fcfcfc; color: #919191 !important; font-size: 15px; list-style: outside none none; padding-left: 5px; }
+#myNavbar ul li a { color: #767676; font-family: helvetica; font-size: 15px; line-height:53px; text-decoration: none; padding-left: 5px;}
+/*---End Treeview Style----------*/
+
+.Admin-p-img { margin: 15px 0; }
+.L_Active {background-color:#ddd !important}
+
+/*Cart*/
+.bottom-header {text-align: right; }
+.bottom-header i { color:#fff; font-size:24px; cursor:pointer}
+.bottom-header .badge {margin-left:2px; padding: 3px 7px; font-size:12px; font-weight: bold; color: #333; line-height: 1; vertical-align: middle; white-space: nowrap; text-align: center; background-color: #fff; border-radius: 10px; }
+
+.my-product-remove i { color:#d74c4c}
+#my-cart-table { margin-bottom:0 !important}
+

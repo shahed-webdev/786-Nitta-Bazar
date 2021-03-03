@@ -1,0 +1,39 @@
+﻿
+html, body { height: 100%; min-width: 100%; margin: 0; padding: 0; border: 0; }
+body { font-family: 'Roboto', sans-serif; margin: 0; padding: 0; }
+
+.my-Nav-Header {margin-bottom: 0; border-radius: 0; border: none; }
+.my-Nav-Header a { color: #fff !important; }
+
+.navbar-nav > li > a { padding-bottom: 4px; padding-top: 4px; }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form { border-color: #fff; }
+.navbar-inverse .navbar-toggle { border-color: #fff; }
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover { background-color:#fff;}
+
+.Top-header { background-color:#fff;border-bottom: 1px solid #ddd; }
+.bottom-header { background-color: #ed4055; border-bottom: 1px solid #d43d52; }
+
+.Logo { /*margin: auto; width: 165px;*/ padding: 10px 0; }
+
+#Main_Contain { min-height:650px;}
+footer { background-color:#ed4055; margin-top: 50px; padding:15px 0; }
+.CopyRight p{color: #fff; text-align: center; margin:0}
+.CopyRight small{color: #fff; text-align: center; font-size:13px;}
+
+.CopyRight a{color: #fff; text-align: center; font-size:13px;}
+.CopyRight a:hover{color: #fff; text-decoration:underline}
+
+.btn-primary { background-color: #ed4055; border-color: #ed4055; }
+.btn-primary:hover { background-color: #ca1d32; border-color: #ca1d32; }
+
+.form-inline { margin-bottom:15px;}
+
+
+/*--Back to top----*/
+#toTop { background-color: #000; border-color: #000; bottom: 10px; cursor: pointer; display: none; position: fixed; right: 10px; }
+
+
+@media (max-width: 768px) {
+  #Main_Contain { min-height:100px !important;}
+}
+
